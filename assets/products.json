@@ -1,0 +1,407 @@
+[
+  {
+    "id": 0,
+    "image": "../assets/psg.jpg",
+    "title": "Sweat Paris Saint-Germain",
+    "price": "89,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/psg2.jpg",
+    "title": "Sweat Paris Saint-Germain",
+    "price": "64,97 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/sweatred.jpg",
+    "title": "Nike Sportwear",
+    "price": "79,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/sweatair.jpg",
+    "title": "Sweat Nike Air",
+    "price": "64,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/pantalonair.jpg",
+    "title": "Pantalon Nike Air",
+    "price": "69,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/jordanzion.jpg",
+    "title": "T-shirt Jordan Dri-FIT Zion",
+    "price": "39,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/madeinusa.jpg",
+    "title": "T-shirt Nike \"Made in the USA\"",
+    "price": "49,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/jordanaj4.jpg",
+    "title": "Sweat Jordan AJ4 Graphic",
+    "price": "79,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/jordanflight.jpg",
+    "title": "Sweat Jordan Flight",
+    "price": "79,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/vesteorange.jpg",
+    "title": "Veste Nike Sportwear Windrunner",
+    "price": "89,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/hautenmolleton.jpg",
+    "title": "Sweat Nike Sportswear Club",
+    "price": "49,99 €",
+    "type": "clothing"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/tshirtrouge.jpg",
+    "title": "T-shirt Nike Sportswear Club",
+    "price": "19,99 €",
+    "type": "clothing"
+  },
+  {
+    "id": 0,
+    "image": "../assets/applewatch.jpg",
+    "title": "Apple Watch Nike Series 6 avec Bracelet Sport Nike",
+    "price": "529 €",
+    "type": "accessories"
+  },
+  {
+    "id": 1,
+    "image": "../assets/sacpsg.jpg",
+    "title": "Sac PSG",
+    "price": "115 €",
+    "discount": "80,97€",
+    "type": "accessories"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/transform.jpg",
+    "title": "Nike Transform",
+    "price": "119,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/coudierenba.jpg",
+    "title": "Protection Nike NBA",
+    "price": "19,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/nbaelite.jpg",
+    "title": "Nike NBA Elite",
+    "price": "19,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/ballonbasketball.jpg",
+    "title": "Ballon Basket-ball Nike Versca Tack 8P",
+    "price": "29,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/sacnikefc.jpg",
+    "title": "Sac Nike F.C.",
+    "price": "34,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/protegetibia.jpg",
+    "title": "Protection tibia PSG Mercurial Lite",
+    "price": "27,99 €",
+    "discount": "20,97€",
+    "type": "accessories"
+  },
+  {
+    "id": 1,
+    "image": "../assets/ballonstreet.jpg",
+    "title": "Ballon Football Nike Street Akka",
+    "price": "24,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/banane.jpg",
+    "title": "Sacoche/Banane Nike Heritage",
+    "price": "19,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/bandeau.jpg",
+    "title": "Bandeau NikeCourt",
+    "price": "17,99 €",
+    "type": "accessories"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/sacred.jpg",
+    "title": "Sac Nike Sportswear Heritage",
+    "price": "27,99 €",
+    "type": "accessories"
+  },
+  {
+    "id": 0,
+    "image": "../assets/maillotpsg.jpg",
+    "title": "Paris Saint-Germain 2021/22",
+    "price": "139,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/fff.jpg",
+    "title": "France training",
+    "price": "59,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/maillotportugual.jpg",
+    "title": "Portugal 2020 Vapor Match Domicile",
+    "price": "139,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/maillotportext.jpg",
+    "title": "Portugal 2020 Stadium Extérieur",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/maillotpaysbas.jpg",
+    "title": "Netherlands 2020 Stadium Home",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/maillotusa.jpg",
+    "title": "USA 2020 Stadium Domicile",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/angleterre.jpg",
+    "title": "Angleterre 2020 Vapor Match Domicile",
+    "price": "139,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/leipzig.jpg",
+    "title": "RB Leipzig 2021/22 Stadium Domicile",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/tottenham.jpg",
+    "title": "Tottenham Hotspur 2021/22 Match Domicile",
+    "price": "139,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/lakers.jpg",
+    "title": "LeBron James Lakers Statement Edition 2020 NBA",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/bucks.jpg",
+    "title": "Giannis Antetokounmpo Bucks icon Edition 2020NBA",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/clippers.jpg",
+    "title": "Kawhi Leonard Clippers Icon edition NBA",
+    "price": "69,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 12,
+    "image": "../assets/nets.jpg",
+    "title": "Kyrie Irving Nets Icon Edition 2020 NBA",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 13,
+    "image": "../assets/knicks.jpg",
+    "title": "Frank Ntilikina Knicks Icon Edition 2020 NBA",
+    "price": "89,99 €",
+    "type": "jersey"
+  },
+
+  {
+    "id": 14,
+    "image": "../assets/heats.jpg",
+    "title": "Miami Heat City Edition NBA",
+    "price": "99,99 €",
+    "type": "jersey"
+  },
+  {
+    "id": 0,
+    "image": "../assets/kd.jpg",
+    "title": "KD14",
+    "price": "149,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 1,
+    "image": "../assets/zion1.jpg",
+    "title": "Zion 1",
+    "price": "119,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 2,
+    "image": "../assets/lebron.jpg",
+    "title": "Lebron Witness 5",
+    "price": "99,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 3,
+    "image": "../assets/airmax96.jpg",
+    "title": "Nike Air Max 96",
+    "price": "179,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 4,
+    "image": "../assets/airforce.jpg",
+    "title": "Nike Air Force",
+    "price": "99,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 5,
+    "image": "../assets/airmax95.jpg",
+    "title": "Nike Air Max 95",
+    "price": "179,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 6,
+    "image": "../assets/airmax.jpg",
+    "title": "Nike Air Max 2090",
+    "price": "149,99 €",
+    "discount": "89,97 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 7,
+    "image": "../assets/mercurial.jpg",
+    "title": "Nike Mercurial Superfly 8 Pro FG",
+    "price": "149,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 8,
+    "image": "../assets/airjordan.jpg",
+    "title": "Air Jordan XXXV",
+    "price": "184,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 9,
+    "image": "../assets/jordanonetake.jpg",
+    "title": "Jordan One Take II",
+    "price": "99,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 10,
+    "image": "../assets/airjordan11.jpg",
+    "title": "Air Jordan 11 CMFT Low",
+    "price": "124,99 €",
+    "type": "shoes"
+  },
+
+  {
+    "id": 11,
+    "image": "../assets/jordanwhynot.jpg",
+    "title": "Jordan \"why not ?\"",
+    "price": "139,99 €",
+    "type": "shoes"
+  }
+]
